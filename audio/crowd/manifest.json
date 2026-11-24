@@ -1,0 +1,87 @@
+{
+ "about": "Real crowd recordings used for the match atmosphere and the reactions. Credits: credits.html.",
+ "bed": {
+  "file": "austria-sweden-crowd.ogg",
+  "gain": 0.95,
+  "ranges": [
+   [
+    0,
+    48
+   ],
+   [
+    70,
+    136
+   ],
+   [
+    146,
+    162
+   ],
+   [
+    167,
+    211
+   ]
+  ]
+ },
+ "goal": {
+  "file": "southampton-goal.mp3",
+  "from": 0.7,
+  "len": 8.5,
+  "gain": 1.15
+ },
+ "ooh": [
+  {
+   "file": "france-usa-reaction.ogg",
+   "from": 31.2,
+   "len": 5.5,
+   "gain": 0.33
+  },
+  {
+   "file": "southampton-ooh-2.mp3",
+   "from": 9.3,
+   "len": 5,
+   "gain": 0.94
+  },
+  {
+   "file": "southampton-ooh-3.mp3",
+   "from": 5.3,
+   "len": 4.2,
+   "gain": 1.25
+  }
+ ],
+ "cheer": [
+  {
+   "file": "austria-sweden-crowd.ogg",
+   "from": 48.8,
+   "len": 3.8,
+   "gain": 0.9
+  }
+ ],
+ "boo": [
+  {
+   "file": "austria-sweden-crowd.ogg",
+   "from": 61.2,
+   "len": 5.5,
+   "gain": 1.1
+  },
+  {
+   "file": "aris-crowd-angry.mp3",
+   "from": 17,
+   "len": 5.5,
+   "gain": 0.59
+  }
+ ],
+ "jeer": [
+  {
+   "file": "austria-sweden-crowd.ogg",
+   "from": 59,
+   "len": 8.5,
+   "gain": 0.8
+  },
+  {
+   "file": "aris-crowd-angry.mp3",
+   "from": 4.8,
+   "len": 8.5,
+   "gain": 0.47
+  }
+ ]
+}
